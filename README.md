@@ -1,26 +1,52 @@
-# 👋 Hi, I'm Ozge Gunes!  
+# 👋 Hi, I’m Özge Güneş!
 
-I am an **engineer with a passion for Artificial Intelligence, Machine Learning, and Data Science**. With a background in **Food Engineering**, I have experience in **quality management, process optimization, and data-driven decision-making**. Currently, I am expanding my expertise in **Python programming, AI engineering, and data analysis** to create innovative solutions for real-world challenges.  
+I’m a Food Engineer & Data Scientist exploring how **AI** and **data** can drive impact—whether in food, healthcare, finance, or any other industry.
 
-## 🚀 Areas of Interest  
-- **Artificial Intelligence & Machine Learning** (Special focus on **Computer Vision & NLP**)  
-- **Data Science & Process Automation**  
-- **AI applications in Food, Healthcare, and Technology**  
-- **Freelance projects & Entrepreneurship**  
+---
 
-## 🎯 My Goals  
-- Gain hands-on experience in AI and **work in a corporate environment** to strengthen my technical skills  
-- Specialize in **Data Science and AI Engineering**  
-- Develop **AI-driven solutions that make an impact in various industries**  
-- In the long run, transition into **freelancing or entrepreneurship** to build innovative projects  
+## 🔭 What I’m Working On
+- **Miuul 18th Term Data Scientist Bootcamp**  
+  Hands-on assignments in Python, data analysis & machine learning  
+- **IBM Data Science Professional Certificate** (In Progress)  
+  Data visualization, statistical analysis & ML modeling  
+- **Coursera Python 3 Programming Specialization** (Completed)  
+  “Data Collection & Processing with Python” capstone project  
+- **Shelf-Life Prediction Pipeline** (In Progress)  
+  Regression model forecasting product stability over time  
 
-## 🏆 My Learning Journey  
-- **Python 3 Programming Specialization - University of Michigan (Coursera)**  
-- **Akbank AI Bootcamp Participant**  
-- Strong knowledge of **Quality Management Systems & Food Safety**  
-- Constantly learning and developing AI-related projects  
+---
 
-## 📬 Let's Connect!  
-If you're interested in **AI, data science, or technology-driven projects**, feel free to reach out!    
-- **LinkedIn:** [linkedin.com/in/ozgekayagunes](https://www.linkedin.com/in/ozgekayagunes/)  
-- **Email:** [ozgekayagunes@gmail.com](mailto:ozgekayagunes@gmail.com)  
+## 🌱 Skills & Technologies
+| Category               | Tools & Technologies                                  |
+| ---------------------- | ----------------------------------------------------- |
+| **Languages**          | Python, SQL                                           |
+| **Data Analysis**      | pandas, NumPy, matplotlib, statsmodels                |
+| **Machine Learning**   | scikit-learn, TensorFlow, PyTorch                     |
+| **Computer Vision & NLP** | OpenCV, Hugging Face Transformers                  |
+| **Dev & Deployment**   | Jupyter, Colab, Docker, GitHub Actions                |
+| **Web & UI**           | Streamlit, Flask, HTML/CSS                            |
+| **Certifications**     | Python 3 Specialization (Michigan)<br>IBM Data Science Professional Certificate (In Progress) |
+| **Training**           | Miuul Data Scientist Bootcamp (18th Term Participant) |
+
+---
+
+## 🎯 Career Goals
+1. **Master AI Engineering**  
+   – Build deep-learning pipelines in Computer Vision & NLP  
+2. **Solve Real-World Problems**  
+   – Apply data science & AI across **any** industry  
+3. **Share & Collaborate**  
+   – Publish open-source toolkits, tutorials & blog posts  
+4. **Innovate & Launch**  
+   – Develop AI-driven products as a freelancer or founder  
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/ozgekayagunes](https://linkedin.com/in/ozgekayagunes)  
+- **Email:** ozgekayagunes@gmail.com  
+- **GitHub:** [github.com/ozgunes91](https://github.com/ozgunes91)  
+
+---
+
+> “Engineering meets data—solving problems wherever they arise.”  
