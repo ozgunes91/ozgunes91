@@ -6,7 +6,7 @@ I’m a Food Engineer & Data Scientist exploring how **AI** and **data** can dri
 
 ## 🔭 What I’m Working On
 
-- **Miuul 18th Term Data Scientist Bootcamp**  
+- **Miuul 18th Term Data Scientist Bootcamp** *(Completed)*  
   Hands-on assignments in Python, data analysis & machine learning  
 
 - **IBM Data Science Professional Certificate** *(In Progress)*  
