@@ -4,36 +4,41 @@ I’m a Food Engineer & Data Scientist exploring how **AI** and **data** can dri
 
 ---
 
-## 🔭 What I’m Working On
+## 🚀 What I'm Working On  
 
-- **Miuul 18th Term Data Scientist Bootcamp** *(Completed)*  
-  Hands-on assignments in Python, data analysis & machine learning  
+- **IBM Data Analyst Professional Certificate** *(Completed)*  
+  Data visualization, statistical analysis & ML modeling using **Excel, SQL, Python, and IBM Cognos Analytics**.
 
-- **IBM Data Science Professional Certificate** *(In Progress)*  
-  Data visualization, statistical analysis & ML modeling  
+- **MiUUL 18th Term Data Scientist Bootcamp** *(Completed)*  
+  Hands-on projects in **Python, data analysis, machine learning**, and **feature engineering**.
 
-- **Coursera Python 3 Programming Specialization** *(Completed)*  
-  “Data Collection & Processing with Python” capstone project  
+- **IBM Data Science Professional Certificate** *(Completed)*  
+  Comprehensive training in **data wrangling, visualization, and supervised ML algorithms**.
+
+- **Coursera Python 3 Programming Specialization (University of Michigan)** *(Completed)*  
+  Focused on **data collection, cleaning, and processing with Python**.  
+  Capstone: “*Data Collection & Processing with Python*”.
 
 - **Shelf-Life Prediction Tool** *(My First Project)*  
-  A simple regression-based model to estimate product shelf life using Python.
+  A simple regression-based model to estimate **product shelf life** using **Python**.
+
+- **Ecolense Intelligence – Food Waste & Sustainability Dashboard (Ongoing)**  
+  An AI-powered analytics dashboard forecasting **food waste, carbon footprint, and economic loss** through **ML and Streamlit**.
 
 ---
+## 🌱 Skills & Technologies  
 
-## 🌱 Skills & Technologies 
-
-| Category                   | Tools & Technologies                                                                 |
-|----------------------------|--------------------------------------------------------------------------------------|
-| **Languages**              | Python, SQL (beginner)                                                              |
-| **Data Analysis**          | pandas, NumPy, matplotlib, seaborn, statsmodels                                     |
-| **Machine Learning**       | scikit-learn, XGBoost, stats-based A/B testing, regression/classification models    |
-| **Computer Vision & NLP**  | OpenCV (basic), Hugging Face Transformers (intro-level), Tesseract-OCR              |
-| **Data Engineering & Dev** | Jupyter, Google Colab, Git, GitHub, Docker (intro-level), GitHub Actions (basic)    |
-| **Web & App Development**  | Streamlit, Flask (intro-level), HTML/CSS (basic knowledge)                          |
-| **Certifications**         | Python 3 Programming Specialization (University of Michigan)<br>IBM Data Science Professional Certificate (In Progress) |
-| **Training**               | 18th Term - Miuul Data Scientist Bootcamp – <br>Garanti BBVA & Akbank Bootcamps     |
-| **Projects & Interests**   | AI label compliance checker, customer segmentation (RFM, CLTV), A/B testing, food-tech analytics |
-
+| **Category** | **Tools & Technologies** |
+|---------------|---------------------------|
+| **Languages** | Python, SQL (intermediate) |
+| **Data Analysis** | pandas, NumPy, matplotlib, seaborn, statsmodels, Excel (advanced), IBM Cognos Analytics |
+| **Machine Learning** | scikit-learn, XGBoost, LightGBM, Random Forest, Regression/Classification Models, A/B Testing |
+| **Data Visualization** | Power BI, Tableau, Streamlit, Matplotlib, Seaborn |
+| **Computer Vision & NLP** | OpenCV (basic), Hugging Face Transformers, Tesseract-OCR |
+| **Data Engineering & Dev** | Jupyter, Google Colab, Git & GitHub, Docker (intro), GitHub Actions |
+| **Web & App Development** | Streamlit (intermediate), Flask (intro), HTML/CSS (basic) |
+| **Certifications** | 🎓 IBM Data Analyst Professional Certificate<br>🎓 IBM Data Science Professional Certificate<br>🎓 Coursera Python 3 Programming Specialization |
+| **Training** | 🧠 MiUUL Data Scientist Bootcamp *(200+ hrs)*<br>💼 Garanti BBVA & Akbank Data Science Bootcamps |
 
 ---
 
