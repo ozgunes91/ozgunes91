@@ -61,7 +61,7 @@ Drive Corporate Innovation and Digital Transformation
 - **LinkedIn:** [linkedin.com/in/ozgekayagunes](https://linkedin.com/in/ozgekayagunes)  
 - **Email:** ozgekayagunes@gmail.com  
 - **GitHub:** [github.com/ozgunes91](https://github.com/ozgunes91)  
-
+- **Kaggle:** [kaggle.com/ozgegns](https://www.kaggle.com/ozgegns)
 ---
 
 > “Engineering meets data—solving problems wherever they arise.”  
