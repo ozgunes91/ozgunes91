@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Özge Güneş!
 
-I’m a Food Engineer & Data Scientist exploring how **AI** and **data** can drive impact—whether in food, healthcare, finance, or any other industry.
+I’m a Food Engineer & Junior Data Scientist exploring how **AI** and **data** can drive impact—whether in food, healthcare, finance, or any other industry.
 
 ---
 
